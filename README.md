@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](../new-homepage-main/screenshot/iPad-1777712933290.jpeg)
-![](../new-homepage-main/screenshot/iPhone%2012%20Pro-1777712937406.jpeg)
-![](../new-homepage-main/screenshot/MacBook%20Pro-1777712943356.jpeg)
+![](../new-homepage-main/screenshot/ipad-screenshot.jpeg.jpeg)
+![](../new-homepage-main/screenshot/iphone-screenshot.jpeg.jpeg)
+![](../new-homepage-main/screenshot/mac-screenshot.jpeg.jpeg)
 
 ### Links
 
